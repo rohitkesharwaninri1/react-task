@@ -78,7 +78,7 @@ export default function App() {
     setTasks(filteredData);
     setFilteredTasks(filteredData);
   };
-  console.log("tasks", tasks);
+
   return (
     <Box
       sx={{
